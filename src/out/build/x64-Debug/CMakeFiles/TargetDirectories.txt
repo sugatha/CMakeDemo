@@ -1,0 +1,15 @@
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_static/CMakeFiles/rebuild_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_static/CMakeFiles/mylib_static.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_static/CMakeFiles/edit_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/utillib_static/CMakeFiles/utillib_static.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/utillib_static/CMakeFiles/edit_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/utillib_static/CMakeFiles/rebuild_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_shared/CMakeFiles/mylib_shared.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_shared/CMakeFiles/edit_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/mylib_shared/CMakeFiles/rebuild_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/theapp/CMakeFiles/mytest.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/theapp/CMakeFiles/theapp.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/theapp/CMakeFiles/edit_cache.dir
+C:/Users/sugathan.anandan/Desktop/cmakedemo/src/out/build/x64-Debug/theapp/CMakeFiles/rebuild_cache.dir

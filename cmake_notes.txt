@@ -1,0 +1,12 @@
+thigs to check.
+
+cmake_policy - to handle different versions of cmake.
+
+library related....
+
+BUILD_SHARED_LIBS - a common variable to handle if the library created is a lib or dll
+MODULE (type like SHARED , STATIC)
+INTERFACE - used in case of creating header only library.
+ALIAS -  to create an alias to a library. ?
+
+
